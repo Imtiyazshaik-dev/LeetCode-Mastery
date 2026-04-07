@@ -22,3 +22,6 @@ Used in **Daily Temperatures** and **Exclusive Time of Functions**.
 ## 📁 Repository Structure
 * `/Arrays`: Solutions involving hashing and sliding windows.
 * `/Stacks`: Problems focused on LIFO logic and monotonic properties.
+### 📍 Arrays & Hashing
+* Mastered the **Complement Map** technique for $O(n)$ search.
+* Used **Hash Sets** for efficient frequency and existence checks.
